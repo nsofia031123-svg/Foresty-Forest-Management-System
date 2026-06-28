@@ -42,4 +42,4 @@ A web-based forest management system developed using PHP and MySQL to analyze fo
 
 Developed the forest analysis system, implemented stand table calculations, created tree distribution visualization, integrated MySQL database operations, generated forest analysis reports, and tested the system for accuracy and usability.
 
-Developed the forest analysis system, implemented stand table calculations, created tree distribution visualization, integrated MySQL database operations, generated forest analysis reports, and tested the system for accuracy and usability.
+
